@@ -1,0 +1,1 @@
+Dans ce projet on va creer des fichiers, les modifiers, faire des commit puis push sur GitHub
